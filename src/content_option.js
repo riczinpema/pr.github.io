@@ -1,7 +1,7 @@
-const logotext = "JOHN";
+const logotext = "UX Riczin";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "UX Riczin",
+    description: "I’m Riczin UX UX scientist _ Full stack designer",
 };
 
 const introdata = {
@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop/design mobile and web apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -37,23 +37,23 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "UX",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "UXR",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Design Thinking / Sprint",
         value: 80,
     },
     {
-        name: "React",
+        name: "FrontEnd/Back-end ",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "CSS",
         value: 85,
     },
 ];
